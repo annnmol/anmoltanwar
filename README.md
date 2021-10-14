@@ -9,5 +9,5 @@ Please contact me if you have such opportunities and feel free to ask any questi
   LinkedIn: https://www.linkedin.com/in/anmoltanwar/
 
 My background: 
-  Programming: C/C++, Python, Java(basics), Django, HTML, CSS, JavaScript, PHP.
+  Programming: C/C++, Python, Java(basics), Django, HTML, CSS, JavaScript, PHP. 
   Design: Adobe XD, Figma, Illustrator, After Effects, Premier Pro.
